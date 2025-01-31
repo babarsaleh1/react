@@ -10,3 +10,4 @@
   "sandboxes": ["new"],
   "silent": true
 }
+"react-dom": "build/oss-experimental/react-dom.com
